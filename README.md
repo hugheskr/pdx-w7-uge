@@ -1,3 +1,26 @@
+1. Rate today's workshop -scale of 1-10
+
+I would rate today's workshop as a 10.  Even though I don't feel like I am a master of Git and Unix I still give this class high marks for the reason that I feel I have the tools and confidence to explore the system.  Feeling 100% comfortable will take practice on my part.
+
+2. Things from today that I liked
+
+I really liked the pace.  At first I thought it was a little slow, but then I realized that it was just right.  The concepts were very new to me and I appreciated the pace.  I had an opportunity to go through the steps and then ask questions when needed (and I asked a lot of questions).  I liked the small class size and Beth's willingness to help.
+
+
+3. Things from today that I would improve
+
+I can't think of anything else to improve.  I really hope that this class is expanded upon in the following foundations II courses so that I am forced to get more comfortable with the concepts.
+
+
+
+
+
+
+
+
+
+
+
 Unix & Git for Everyone (Portland, August 22, 2015)
 --------------------------------------------------
 
